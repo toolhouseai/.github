@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](assets/Banner.png)
 
 **Toolhouse** is the first cloud platform that allows developers to quickly build, manage, and run **AI function-calling**. We take care of every aspect of connecting AI to the real world, from performance optimization to prompting to integrations with all foundational models, in just **three lines of code**.
 
