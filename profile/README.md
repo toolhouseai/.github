@@ -19,5 +19,4 @@
 ## Resources
 
  - 📑 [Read the Documentation](https://docs.toolhouse.ai)
- - 🏃 [Run Experiments on the Toolhouse Playground](https://toolhouseplayground.streamlit.app)
  - 🌱 [Join the Toolhouse Community on Discord](https://discord.gg/jWDzFNXWS4)
