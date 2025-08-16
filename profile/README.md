@@ -3,10 +3,15 @@
 With Toolhouse, you can build agents starting from a simple prompt. Ship AI in one click thanks to an optimized production cloud, pre-loaded with all the integrations you need: scrapers, web search, MCP, and more.
 
 ✅ Use your own words, Toolhouse does the rest
+
 ✅ Built-in integrations and MCP
+
 ✅ Built-in RAG with automatic setup
+
 ✅ Built-in logging and debugging tools
+
 ✅ Each agent has a dedicated sandbox
+
 ✅ One click Publish to a production-grade cloud
 <br>
 
