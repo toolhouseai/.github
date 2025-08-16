@@ -1,4 +1,4 @@
-<video src="https://static.toolhouse.ai/walkthrough2.mp4" title="Toolhouse in action"></video>
+<video autoplay loop src="https://github.com/user-attachments/assets/95162fde-c6cd-4bfc-89f6-1a27bf11e5b4" title="Toolhouse in action"></video>
 
 **Think it. Ship it.**
 
