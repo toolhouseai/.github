@@ -1,3 +1,5 @@
+<video src="https://static.toolhouse.ai/walkthrough2.mp4" title="Toolhouse in action"></video>
+
 **Think it. Ship it.**
 
 With Toolhouse, you can build agents starting from a simple prompt. Ship AI in one click thanks to an optimized production cloud, pre-loaded with all the integrations you need: scrapers, web search, MCP, and more.
