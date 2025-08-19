@@ -1,3 +1,4 @@
+![Toolhouse 2025 Banner](https://raw.githubusercontent.com/toolhouseai/.github/refs/heads/main/profile/assets/Toolhouse_25.png)
 <video autoplay loop src="https://github.com/user-attachments/assets/95162fde-c6cd-4bfc-89f6-1a27bf11e5b4" title="Toolhouse in action"></video>
 
 **Think it. Ship it.**
